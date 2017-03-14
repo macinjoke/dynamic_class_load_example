@@ -1,5 +1,5 @@
 import importlib
-from dynamic import Human
+from human import Human
 import glob
 from os import path
 

@@ -1,4 +1,4 @@
-from . import Human
+from human import Human
 
 
 class Alice(Human):
